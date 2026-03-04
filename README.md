@@ -134,7 +134,6 @@ Built on a star schema in Power BI with a central Facts table connected to seven
 The original dataset required significant cleaning before analysis:
 
 - Removed null date rows to ensure a clean time axis starting from January 2021
-- Excluded one brand division with insufficient campaign data representing less than 0.1% of total spend
 - Standardised numeric and currency columns
 - Resolved column naming inconsistencies inherited from the flat source file
 - Normalised UTM fields for consistent attribution analysis across all divisions
