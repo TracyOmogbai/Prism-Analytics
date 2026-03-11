@@ -107,7 +107,6 @@ UTM tracking analysis showing which sources, mediums and campaign tags are drivi
 
 ![Attribution](https://raw.githubusercontent.com/TracyOmogbai/Prism-Analytics/main/screenshots/Attribution.png)
 
-*Screenshot coming soon*
 
 ---
 
