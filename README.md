@@ -105,7 +105,7 @@ Audience segment performance analysis showing CVR ranking across all segments, s
 ### Attribution
 UTM tracking analysis showing which sources, mediums and campaign tags are driving conversions group-wide, including a conversion funnel by UTM medium and ranked campaign performance table.
 
-![Attribution](https://raw.githubusercontent.com/TracyOmogbai/Prism-Analytics/main/screenshots/attribution.png)
+![Attribution](https://raw.githubusercontent.com/TracyOmogbai/Prism-Analytics/main/screenshots/Attribution.png)
 
 *Screenshot coming soon*
 
